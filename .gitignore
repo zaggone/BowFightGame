@@ -1,0 +1,17 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opendb
+*.sdf
+*.sln
+*.sou
+*.xcodeproj
+*.xcworkspace
+Content/RedDesertPack
+Content/BowsAndCrossbowsPack
+Content/DynamicCombatSystem
+Content/ExternalContent
